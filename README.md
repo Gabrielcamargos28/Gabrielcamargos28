@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Olá, Eu sou Gabriel Camargos</h1>
 <h3 align="center">Estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
