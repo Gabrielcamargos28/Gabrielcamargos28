@@ -1,3 +1,5 @@
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182048411-2257c6b7-b09d-4fae-bb7b-319ec732c2b2.gif" alt="" height="300" width="1050" /></a>
+
 <h1 align="center">Olá, Eu sou Gabriel Camargos</h1>
 <h3 align="center">Estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
