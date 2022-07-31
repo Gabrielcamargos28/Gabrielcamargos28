@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Olá, Eu sou Gabriel Camargos</h1>
-<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1020" /></a>
+
 <h3 align="center">Estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
