@@ -1,12 +1,15 @@
-<img align="center" src="https://user-images.githubusercontent.com/86752686/182048411-2257c6b7-b09d-4fae-bb7b-319ec732c2b2.gif" alt="" height="300" width="1050" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1050" /></a>
+
 
 <h1 align="center">Olá, Eu sou Gabriel Camargos</h1>
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1050" /></a>
 <h3 align="center">Estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielcamargos28&langs_count=7&theme=dracula" alt="gabrielcamargos28" /></a> </p>
+
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
@@ -23,4 +26,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielcamargos28&show_icons=true&locale=en&langs_count=7&theme=dracula" alt="gabrielcamargos28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcamargos28&&langs_count=7&theme=dracula" alt="gabrielcamargos28" /></p>
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1050" /></a>
 
