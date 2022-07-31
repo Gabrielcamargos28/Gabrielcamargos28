@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1010" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1000" /></a>
 
 
 <h1 align="center">Olá, Eu sou Gabriel Camargos</h1>
@@ -26,5 +26,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielcamargos28&show_icons=true&locale=en&langs_count=7&theme=dracula" alt="gabrielcamargos28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcamargos28&&langs_count=7&theme=dracula" alt="gabrielcamargos28" /></p>
-<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1010" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/86752686/182049043-c89406f8-6370-4a58-9908-da1dc8affee7.gif" alt="" height="30" width="1000" /></a>
 
