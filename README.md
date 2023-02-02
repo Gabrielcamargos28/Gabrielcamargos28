@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=59B66E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+GABRIEL+CAMARGOS;I'm+19+years+old;I+am+from+Uberaba,+MG;I+study+strategic+planning+and+analysis+systems+development+at+IFTM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BLUE&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+É+GABRIEL+CAMARGOS;EU+TENHO+18+ANOS;SOU+DE+PATROCINIO,+MG;ESTUDO+ANALISE+DESENVOLVIMENTO+DE+SISTEMAS+NO+IFTM;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 <h3 align="center">Desenvolvedor back-end e estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
