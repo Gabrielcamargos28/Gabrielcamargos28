@@ -10,7 +10,7 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/gabriel-camargos-b8463a221/](https://www.linkedin.com/in/gabriel-camargos-dev/)" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-camargos-b8463a221/" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/gabriel-camargos-dev/)" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/gabriel-camargos-b8463a221/](https://www.linkedin.com/in/gabriel-camargos-dev/)" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_pcamargos" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_pcamargos" height="30" width="40" /></a>
 </p>
