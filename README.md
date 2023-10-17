@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=White&size=35&center=true&vCenter=true&width=1000&lines=OLA,+MEU+NOME+É+GABRIEL+CAMARGOS;EU+TENHO+19+ANOS;SEJA+BEM+VINDO!+:%29)
+<h1 align="center" style="color💙">OLA, MEU NOME É GABRIEL CAMARGOS</h1>
 
 <h3 align="center" style="color:blue">Desenvolvedor back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
