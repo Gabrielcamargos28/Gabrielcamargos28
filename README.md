@@ -129,7 +129,7 @@
         <img
           src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
           height="40"
-          alt="vscode logo"
+          alt="logo"
         />
         <img width="12" /> Visual Studio Code
       </td>
@@ -137,15 +137,32 @@
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
           height="41"
-          alt="vscode logo"
+          alt="logo"
         />
         <img width="13" /> InteliJ
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> Android Studio
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> Kotlin
       </td>
     </tr>
   </tbody>
 </table>
 </div>
-<div>
 <div align="center">
 <h3>Git status</h3>
 <a href="https://github.com/Gabrielcamargos28"></a>
