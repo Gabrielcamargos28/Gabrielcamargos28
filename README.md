@@ -2,8 +2,9 @@
 
 <h3 align="center">Desenvolvedor back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
+<p align="left"> 
 </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCamargos28&show_icons=true&theme=radical" alt="">
 <h3 align="center"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-camargos-dev/" target="blank">
@@ -167,4 +168,5 @@
 <h3>Git status</h3>
 <a href="https://github.com/Gabrielcamargos28"></a>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcamargos28&layout=compact&langs_count=7&theme=dracula"/></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
 </div>
