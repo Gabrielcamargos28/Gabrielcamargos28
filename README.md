@@ -159,6 +159,22 @@
         />
         <img width="13" /> Kotlin
       </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> React-Native
+      </td>
+      <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+          height="41"
+          alt="logo"
+        />
+        <img width="13" /> Laravel
+      </td>
     </tr>
   </tbody>
 </table>
