@@ -4,7 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
 <p align="left"> 
 </p>
-<h3 align="center"><b>Connect with me:</b></h3>
+<br>
+<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-camargos-dev/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/gabriel-camargos-dev/)" height="30" width="40" /></a>
