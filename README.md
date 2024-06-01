@@ -183,8 +183,8 @@
 <div align="center">
 <h3>Git status</h3>
 <a href="https://github.com/Gabrielcamargos28"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcamargos28&layout=compact&langs_count=7&theme=react-dark"/></a> </p>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCamargos28&show_icons=true&theme=react-dark" alt="">-->
+<!--<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcamargos28&layout=compact&langs_count=7&theme=react-dark"/></a> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCamargos28&show_icons=true&theme=react-dark" alt="">-->
 <p></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCamargos28&theme=react-dark" alt="">
   
