@@ -1,6 +1,6 @@
 <h1 align="center">OLA, MEU NOME É GABRIEL CAMARGOS</h1>
 
-<h3 align="center">Desenvolvedor back-end, estudante do curso de Analíse Desenvolvimento de Software IFTM</h3>
+<h3 align="center">Desenvolvedor FullStack Typescript/Java, formado em  Analíse Desenvolvimento de Sistemas - IFTM</h3>
 <img src="https://komarev.com/ghpvc/?username=gabrielcamargos28&label=Profile%20views&color=0e75b6&style=flat&langs_count=7&theme=dracula"
 <p align="left"> 
 </p>
