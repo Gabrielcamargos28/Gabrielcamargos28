@@ -34,14 +34,6 @@
       </td>
       <td>
         <img
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-          height="40"
-          alt="figma logo"
-        />
-        <img width="12" /> Figma
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
           height="40"
           alt="Angular logo"
@@ -73,14 +65,6 @@
         />
         <img width="12" /> Node.js
       </td>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=express"
-          height="40"
-          alt="express logo"
-        />
-        <img width="12" /> Express
-      </td>
     </tr>
     <tr>
       <td>
@@ -107,14 +91,6 @@
         />
         <img width="12" /> Postgresql
       </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          height="40"
-          alt="mongodb logo"
-        />
-        <img width="12" /> MongoDB
-      </td>
     </tr>
     <tr>
       <td>
@@ -128,27 +104,11 @@
       </td>
       <td>
         <img
-          src="https://cdn.simpleicons.org/visualstudiocode/007ACC"
-          height="40"
-          alt="logo"
-        />
-        <img width="12" /> Visual Studio Code
-      </td>
-      <td>
-        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
           height="41"
           alt="logo"
         />
         <img width="13" /> InteliJ
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> Android Studio
       </td>
     </tr>
     <tr>
@@ -167,14 +127,6 @@
           alt="logo"
         />
         <img width="13" /> React-Native
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-          height="41"
-          alt="logo"
-        />
-        <img width="13" /> Laravel
       </td>
     </tr>
   </tbody>
