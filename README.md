@@ -38,7 +38,7 @@
           height="40"
           alt="Angular logo"
         />
-        <img width="12" /> Angular 14
+        <img width="12" /> Angular
       </td>
       <tr>
       <td>
