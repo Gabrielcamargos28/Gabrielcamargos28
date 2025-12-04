@@ -12,9 +12,7 @@
 <a href="https://instagram.com/gabriel_pcamargos" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_pcamargos" height="30" width="40" /></a>
 </p>
 <div align="center">
-<h3>Git status</h3>
 <a href="https://github.com/Gabrielcamargos28"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielcamargos28&layout=compact&langs_count=7&theme=dark"/></a> </p>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielCamargos28&show_icons=true&theme=react-dark" alt="">
 <p></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCamargos28&theme=react-dark" alt="">-->
